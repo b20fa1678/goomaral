@@ -1,0 +1,2 @@
+# goomaral
+seminar 5
